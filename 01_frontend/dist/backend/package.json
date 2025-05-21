@@ -6,11 +6,13 @@
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
   "start": "node server.js",
-  "build": "npm run build --prefix 01_frontend", 
+  "build": "npm run frontend-build",
+  "frontend-build": "npm run build --prefix 01_frontend",
   "server": "nodemon server.js",
   "client": "npm run dev --prefix ../01_frontend",
   "dev_01": "concurrently \"npm run start\" \"npm run client\""
-},
+}
+
 
   "keywords": [],
   "author": "admin",
