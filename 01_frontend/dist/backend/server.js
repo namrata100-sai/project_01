@@ -15,6 +15,16 @@ import path from 'path';
 
 const app = express();
 
+//new  lines
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '01_frontend', 'dist', 'index.html'));
+});
+
+//up to this
+
 
 //  env configaration
 dotenv.config({path:"./backend/.env"});
