@@ -1,0 +1,23 @@
+category - Paints & Finishes
+
+product - Paint
+
+brand - Asian Paints
+
+price - ₹350
+
+unit - 1 Liter
+
+quantity - 200
+
+description - Asian Paints is India's leading and one of Asia’s largest paint companies. Established in 1942, it is known for offering a wide range of high-quality paints, finishes, coatings, and home décor products. Their portfolio includes interior and exterior wall paints, enamels, wood finishes, waterproofing solutions, and industrial coatings. Asian Paints is trusted for its innovation, vibrant color palettes, long-lasting durability, and eco-friendly products. Popular product lines include Royale, Apcolite, and Tractor Emulsion, catering to both premium and economy segments.
+
+Key Highlights:
+
+Wide range of colors and finishes (matte, satin, gloss).
+
+Specialized solutions like stain resistance, anti-bacterial coatings, and weatherproofing.
+
+Strong focus on technology, aesthetics, and sustainability.
+
+Popular for both residential and commercial projects.

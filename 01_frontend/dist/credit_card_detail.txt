@@ -1,0 +1,21 @@
+Sandbox URL
+https://sandbox.paypal.com
+
+Email
+demo2@personal.example.com
+
+password - @@demo02
+
+Name- demo second
+
+Phone- 4083845980
+
+Country- US
+
+Card Number - 4032036636327148
+
+
+Expiry - 05/2030
+
+
+CSC Code - Any 3 digits
